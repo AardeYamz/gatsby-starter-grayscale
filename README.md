@@ -1,3 +1,21 @@
+> **Fork of [anubhavsrivastava/gatsby-starter-grayscale](https://github.com/anubhavsrivastava/gatsby-starter-grayscale).** Gatsby starter based on Grayscale by startbootstrap. My Gatsby site was built from it. The upstream README follows unchanged.
+
+## Architecture
+
+```mermaid
+flowchart LR
+    up["anubhavsrivastava/gatsby-starter-grayscale"] --> me["This fork"] --> site["yannislam.org<br/>Gatsby version"]
+```
+
+## Related repos
+
+| Repo | Relationship |
+|---|---|
+| [anubhavsrivastava/gatsby-starter-grayscale](https://github.com/anubhavsrivastava/gatsby-starter-grayscale) | Upstream project |
+| [yannislam.org](https://github.com/AardeYamz/yannislam.org) | Built from this starter |
+
+---
+
 # gatsby-starter-grayscale
 
 Gatsby.js V2 starter template based on Grayscale by startbootstrap
